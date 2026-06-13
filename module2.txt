@@ -1,1 +1,5 @@
+ module2
 Module 2: Manages database operations.
+
+module2
+ master
